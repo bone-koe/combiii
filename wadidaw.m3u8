@@ -1,8 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran", SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran", SCTV MABES
 #EXTVLCOPT:http-user-agent=vidioandroid/7.25.11-ca8d861c29 (3191811)
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=204&type=dash
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.m3u8?id=204&type=hls
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran", INDOSIAR MABES
+#EXTVLCOPT:http-user-agent=vidioandroid/7.25.11-ca8d861c29 (3191811)
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.m3u8?id=205&type=hls
 
 
