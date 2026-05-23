@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran", SCTV MABES
-#EXTVLCOPT:http-user-agent=vidioandroid/7.25.11-ca8d861c29 (3191811)
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.m3u8?id=204&type=hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran", INDOSIAR MABES
-#EXTVLCOPT:http-user-agent=vidioandroid/7.25.11-ca8d861c29 (3191811)
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.m3u8?id=205&type=hls
-
-
+#EXTINF:-1 tvg-id="874" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Thumbnail_Mentari-TV-qx1l3z44lqjtbv14zkcaulb5cfxq4iipbwg771feoe.jpg" group-title="TV Nasional", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonhmacapiserver.iptvbonekoe.workers.dev/play.m3u8?id=8237&type=hls
