@@ -1,514 +1,515 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="-",ABU-DHABI-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ABU-DHABI-TV
 http://103.148.44.38:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="-",AFN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,AFN
 http://103.148.44.38:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="-",AMARIN-TV
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,AMARIN-TV
 http://103.148.44.38:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="-",ANIMAX
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,ANIMAX
 http://103.148.44.38:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="-",ANTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,ANTV
 http://103.148.44.38:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",ATV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_atv.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,ATV
 http://103.148.44.38:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="-",BAIK-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,BAIK-TV
 http://103.148.44.38:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="-",BALI-TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,BALI-TV
 http://103.148.44.38:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="-",BBTV-TV7
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,BBTV-TV7
 http://103.148.44.38:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="-",BETV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489080497142628352/OC6q4ikG.jpeg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,BETV
 http://103.148.44.38:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="-",BIOSKOP-INDO
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,BIOSKOP-INDO
 http://103.148.44.38:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="-",BTV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c80f0d63bfc/a05085b5b64c47aaba94a330544f8436.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,BTV
 http://103.148.44.38:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",BUNGO-TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,BUNGO-TV
 http://103.148.44.38:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="-",Btv
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c80f0d63bfc/a05085b5b64c47aaba94a330544f8436.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,Btv
 http://103.148.44.38:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV10.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-10
 http://103.148.44.38:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV11.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-11
 http://103.148.44.38:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV12.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-12
 http://103.148.44.38:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV13.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-13
 http://103.148.44.38:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV15.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-15
 http://103.148.44.38:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV15.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-15
 http://103.148.44.38:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV2.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-2
 http://103.148.44.38:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",CCTV-7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV7.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV-7
 http://103.148.44.38:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="-",CCTV17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV17.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CCTV17
 http://103.148.44.38:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="-",CGTN
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CGTN
 http://103.148.44.38:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="-",CGTN-DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c86e3cf3bff/e39fcddc642549f99cedd05e3011c4d4.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CGTN-DOCUMENTARY
 http://103.148.44.38:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="-",CGTN-DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c86e3cf3bff/e39fcddc642549f99cedd05e3011c4d4.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CGTN-DOCUMENTARY
 http://103.148.44.38:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="-",CHAMPION-TV1
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CHAMPION-TV1
 http://103.148.44.38:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="-",CHAMPION-TV2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CHAMPION-TV2
 http://103.148.44.38:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",CHINISE-DRAMA
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CHINISE-DRAMA
 http://103.148.44.38:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="-",CNA
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D13F284A-4009-4A1D-964C-CCD4F25A4579/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNA
 http://103.148.44.38:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="-",CNA
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D13F284A-4009-4A1D-964C-CCD4F25A4579/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNA
 http://103.148.44.38:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-",CNBC
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNBC
 http://103.148.44.38:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",CNBC
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNBC
 http://103.148.44.38:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="-",CNBC-INDO
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNBC-INDO
 http://103.148.44.38:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="-",CNN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,CNN
 http://103.148.44.38:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="-",DAII-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,DAII-TV
 http://103.148.44.38:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="-",DC-2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,DC-2
 http://103.148.44.38:8000/play/a01aa/index.m3u8
-#EXTINF:-1 group-title="-",DC7
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,DC7
 http://103.148.44.38:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",DIGDAYA-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,DIGDAYA-TV
 http://103.148.44.38:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",DUBAI-SPORT
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,DUBAI-SPORT
 http://103.148.44.38:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="-",DW-ENGLISH
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,DW-ENGLISH
 http://103.148.44.38:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-01
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-01
 http://103.148.44.38:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-02
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-02
 http://103.148.44.38:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-03
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-03
 http://103.148.44.38:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-04
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-04
 http://103.148.44.38:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-07
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-07
 http://103.148.44.38:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-08
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-08
 http://103.148.44.38:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-09
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-09
 http://103.148.44.38:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-1
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-1
 http://103.148.44.38:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-10
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-10
 http://103.148.44.38:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-10
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-10
 http://103.148.44.38:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-11
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-11
 http://103.148.44.38:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-11
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-11
 http://103.148.44.38:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-11(2)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-11(2)
 http://103.148.44.38:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-12
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-12
 http://103.148.44.38:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-12
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-12
 http://103.148.44.38:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-13
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-13
 http://103.148.44.38:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-13
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-13
 http://103.148.44.38:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-14
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-14
 http://103.148.44.38:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-14
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-14
 http://103.148.44.38:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-15
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-15
 http://103.148.44.38:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-15
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-15
 http://103.148.44.38:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-16
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-16
 http://103.148.44.38:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-16
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-16
 http://103.148.44.38:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-17
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-17
 http://103.148.44.38:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-18
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-18
 http://103.148.44.38:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-19
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-19
 http://103.148.44.38:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-2
 http://103.148.44.38:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-20
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-20
 http://103.148.44.38:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-21
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-21
 http://103.148.44.38:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-22
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-22
 http://103.148.44.38:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-23
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-23
 http://103.148.44.38:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-24
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-24
 http://103.148.44.38:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-25
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-25
 http://103.148.44.38:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-26
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-26
 http://103.148.44.38:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-27
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-27
 http://103.148.44.38:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-28
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-28
 http://103.148.44.38:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-29
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-29
 http://103.148.44.38:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-3
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-3
 http://103.148.44.38:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-30
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-30
 http://103.148.44.38:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-31
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-31
 http://103.148.44.38:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-32
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-32
 http://103.148.44.38:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-33
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-33
 http://103.148.44.38:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-34
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-34
 http://103.148.44.38:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-35
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-35
 http://103.148.44.38:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-36
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-36
 http://103.148.44.38:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-37
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-37
 http://103.148.44.38:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-38
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-38
 http://103.148.44.38:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-39
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-39
 http://103.148.44.38:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-4
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-4
 http://103.148.44.38:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-40
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-40
 http://103.148.44.38:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-5
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-5
 http://103.148.44.38:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-8
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-8
 http://103.148.44.38:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="-",ENCODER-9
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ENCODER-9
 http://103.148.44.38:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",FATWA-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,FATWA-TV
 http://103.148.44.38:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="-",FIGHT-SPORT
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/316/437316-SNAPSHOT-l.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,FIGHT-SPORT
 http://103.148.44.38:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="-",FORMOSA
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,FORMOSA
 http://103.148.44.38:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="-",FTV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,FTV
 http://103.148.44.38:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",G-PREMIUM
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,G-PREMIUM
 http://103.148.44.38:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="-",GALAXI
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GALAXI
 http://103.148.44.38:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="-",GALAXY-PREMIUN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GALAXY-PREMIUN
 http://103.148.44.38:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - TVN-MOVIES 
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - TVN-MOVIES
 http://103.148.44.38:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [052] Dunia Lain
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [052] Dunia Lain
 http://103.148.44.38:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [523] K-Plus (Trial)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [523] K-Plus (Trial)
 http://103.148.44.38:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [576] KIX
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [576] KIX
 http://103.148.44.38:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [578] Channel M
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [578] Channel M
 http://103.148.44.38:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [579] KBS World
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [579] KBS World
 http://103.148.44.38:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",GEN ENT - [580] Aniplus
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GEN ENT - [580] Aniplus
 http://103.148.44.38:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="-",GPR-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,GPR-TV
 http://103.148.44.38:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="-",HITS
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E55E65A4-6CCD-4A8B-8132-1727470820F4/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,HITS
 http://103.148.44.38:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="-",I-NEWS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO7MEYgw8XI/YJVWu5J6BcI/AAAAAAAAEaY/j2QsI1OvKw0EetGC1RiKf7yV983t8mkxQCLcBGAsYHQ/s720/inews-p.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,I-NEWS
 http://103.148.44.38:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",IDR (2)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,IDR (2)
 http://103.148.44.38:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",IMC
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_imc.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,IMC
 http://103.148.44.38:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="-",INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,INDOSIAR
 http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="-",INSAN-TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsVzy3db24Yz74efVtgIWAKuxuCdR_KZRaQioAM60xw&s=10" group-title="DIGITAL TV" x-source="TV DIGITAL" ,INSAN-TV
 http://103.148.44.38:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="-",INSAN-TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsVzy3db24Yz74efVtgIWAKuxuCdR_KZRaQioAM60xw&s=10" group-title="DIGITAL TV" x-source="TV DIGITAL" ,INSAN-TV
 http://103.148.44.38:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",IRD (3) 
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,IRD (3)
 http://103.148.44.38:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="-",IRD (4)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,IRD (4)
 http://103.148.44.38:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="-",JAKTV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,JAKTV
 http://103.148.44.38:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="-",JAMBI-TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuq8532W9fB5LakE4smhAJwE4ZF5GdUxUrSiQcgT73g&s" group-title="DIGITAL TV" x-source="TV DIGITAL" ,JAMBI-TV
 http://103.148.44.38:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="-",JAYA-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,JAYA-TV
 http://103.148.44.38:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="-",JAYA-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,JAYA-TV
 http://103.148.44.38:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="-",JEKTV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rYmM3BAzLG0lPCYB7y1PDJPDXajaE01oexbGhK5yYObuL9EfZL118w5QG9tI9r591bpLAg5zLQ=s900-c-k-c0x00ffffff-no-rj" group-title="DIGITAL TV" x-source="TV DIGITAL" ,JEKTV
 http://103.148.44.38:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="-",JTV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,JTV
 http://103.148.44.38:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="-",K+
+#EXTINF:-1 tvg-logo="https://archive.org/download/k_20230607/K+.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,K+
 http://103.148.44.38:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="-",KIDS - [000] Disney Channel (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,KIDS - [000] Disney Channel (HD)
 http://103.148.44.38:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",KIDS - [384] Nickelodeon
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,KIDS - [384] Nickelodeon
 http://103.148.44.38:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="-",KIDS - [385] Nick Jr.
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,KIDS - [385] Nick Jr.
 http://103.148.44.38:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="-",KOMPAS-TV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,KOMPAS-TV
 http://103.148.44.38:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-",KTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,KTV
 http://103.148.44.38:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="-",KTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,KTV
 http://103.148.44.38:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",KTV-KIDS
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,KTV-KIDS
 http://103.148.44.38:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="-",LIBYA
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LIBYA
 http://103.148.44.38:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="-",LIFESTYLE - [484] Fashion TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LIFESTYLE - [484] Fashion TV
 http://103.148.44.38:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL - [007] Usee Otomoto
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL - [007] Usee Otomoto
 http://103.148.44.38:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL - [042] INSERT
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL - [042] INSERT
 http://103.148.44.38:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-AL-QURAN-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-AL-QURAN-TV
 http://103.148.44.38:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-CNN-INDONESIA
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-CNN-INDONESIA
 http://103.148.44.38:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-MD-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-MD-TV
 http://103.148.44.38:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-NET TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-NET TV
 http://103.148.44.38:8000/play/a01ac/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-NTV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-NTV
 http://103.148.44.38:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-RODJA-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-RODJA-TV
 http://103.148.44.38:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-TVRI-NASIONAL
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-TVRI-NASIONAL
 http://103.148.44.38:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="-",LOCAL-TVRI-SPORT
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,LOCAL-TVRI-SPORT
 http://103.148.44.38:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="-",Living-Entertainment
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,Living-Entertainment
 http://103.148.44.38:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="-",MADINAH-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MADINAH-TV
 http://103.148.44.38:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="-",MADU-TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,MADU-TV
 http://103.148.44.38:8000/play/a088/index.m3u8
-#EXTINF:-1 group-title="-",MD-ENTERTAIMEN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MD-ENTERTAIMEN
 http://103.148.44.38:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="-",METRO-TV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,METRO-TV
 http://103.148.44.38:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [000] FOX Family (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [000] FOX Family (HD)
 http://103.148.44.38:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [000] FOX Movies Premium (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [000] FOX Movies Premium (HD)
 http://103.148.44.38:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [000] HBO (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [000] HBO (HD)
 http://103.148.44.38:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [000] HBO Hits (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [000] HBO Hits (HD)
 http://103.148.44.38:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [060] Bioskop Indonesia
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [060] Bioskop Indonesia
 http://103.148.44.38:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [119] Flik
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [119] Flik
 http://103.148.44.38:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [617] GALAXY (Trial)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [617] GALAXY (Trial)
 http://103.148.44.38:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [682] HBO Signature
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [682] HBO Signature
 http://103.148.44.38:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [683] Cinemax
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [683] Cinemax
 http://103.148.44.38:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [685] HBO Family
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [685] HBO Family
 http://103.148.44.38:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [691] Celestial
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [691] Celestial
 http://103.148.44.38:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",MOVIES - [695] Cinema World
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MOVIES - [695] Cinema World
 http://103.148.44.38:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="-",MUADZ-TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/muadz-tv-id.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,MUADZ-TV
 http://103.148.44.38:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="-",MUSIC - [453] PRAMBORS (Trial)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MUSIC - [453] PRAMBORS (Trial)
 http://103.148.44.38:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="-",MUSIC - [488] MTV Live
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MUSIC - [488] MTV Live
 http://103.148.44.38:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="-",MUSLIM-TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/844/437844-SNAPSHOT-l.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,MUSLIM-TV
 http://103.148.44.38:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="-",MUSLIM-TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/844/437844-SNAPSHOT-l.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,MUSLIM-TV
 http://103.148.44.38:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="-",MY-CINEW
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MY-CINEW
 http://103.148.44.38:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="-",MYTV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,MYTV
 http://103.148.44.38:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="-",NATION-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NATION-TV
 http://103.148.44.38:8000/play/a08o/index.m3u8
-#EXTINF:-1 group-title="-",NBA-TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,NBA-TV
 http://103.148.44.38:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="-",NET-TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,NET-TV
 http://103.148.44.38:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="-",NEWS - [882] Bloomberg
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS - [882] Bloomberg
 http://103.148.44.38:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",NEWS - [896] Euronews
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS - [896] Euronews
 http://103.148.44.38:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="-",NEWS-17
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS-17
 http://103.148.44.38:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",NEWS-18
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS-18
 http://103.148.44.38:8000/play/a08q/index.m3u8
-#EXTINF:-1 group-title="-",NEWS1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS1
 http://103.148.44.38:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",NEWS10
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS10
 http://103.148.44.38:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="-",NEWS11
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS11
 http://103.148.44.38:8000/play/a09k/index.m3u8
-#EXTINF:-1 group-title="-",NEWS12
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS12
 http://103.148.44.38:8000/play/a09l/index.m3u8
-#EXTINF:-1 group-title="-",NEWS13
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS13
 http://103.148.44.38:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="-",NEWS14
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS14
 http://103.148.44.38:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="-",NEWS15
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS15
 http://103.148.44.38:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="-",NEWS16
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS16
 http://103.148.44.38:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="-",NEWS2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS2
 http://103.148.44.38:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="-",NEWS3
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS3
 http://103.148.44.38:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="-",NEWS4
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS4
 http://103.148.44.38:8000/play/a09d/index.m3u8
-#EXTINF:-1 group-title="-",NEWS5
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS5
 http://103.148.44.38:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="-",NEWS6
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS6
 http://103.148.44.38:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="-",NEWS7
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS7
 http://103.148.44.38:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="-",NEWS8
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS8
 http://103.148.44.38:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="-",NEWS9
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,NEWS9
 http://103.148.44.38:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="-",NUSANTARA-TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XuTzv0bqfxY/YJYrykum4tI/AAAAAAAAEl8/keGu1T6qQ2QuMv2uAZWS22w4dCsXNpUHgCLcBGAsYHQ/s720/ntv-p.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,NUSANTARA-TV
 http://103.148.44.38:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",O-CHANEL
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,O-CHANEL
 http://103.148.44.38:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="-",ONE
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,ONE
 http://103.148.44.38:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="-",PULDAPIL-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,PULDAPIL-TV
 http://103.148.44.38:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="-",QURAN-TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="DIGITAL TV" x-source="TV DIGITAL" ,QURAN-TV
 http://103.148.44.38:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="-",RAI-ITALY
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RAI-ITALY
 http://103.148.44.38:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="-",RFI-FRANCE
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RFI-FRANCE
 http://103.148.44.38:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="-",ROCK-ENTERTEINT
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,ROCK-ENTERTEINT
 http://103.148.44.38:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="-",RRI
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RRI
 http://103.148.44.38:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="-",RRI-NET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rrinet5.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,RRI-NET
 http://103.148.44.38:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",RT-NEWS
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RT-NEWS
 http://103.148.44.38:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="-",RTP-ASIA
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RTP-ASIA
 http://103.148.44.38:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="-",RTV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,RTV
 http://103.148.44.38:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="-",RUSSIA-NEWS
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,RUSSIA-NEWS
 http://103.148.44.38:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="-",SALAM-TV
+#EXTINF:-1 tvg-logo="https://salamtelevisi.com/wp-content/uploads/2022/05/copy-logo-salamtv.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,SALAM-TV
 http://103.148.44.38:8000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="-",SAUDI-QURAN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SAUDI-QURAN
 http://103.148.44.38:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="-",SAUDI-SUNNAH
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SAUDI-SUNNAH
 http://103.148.44.38:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="-",SCTV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,SCTV
 http://103.148.44.38:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="-",SCTV-LIVE
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SCTV-LIVE
 http://103.148.44.38:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="-",SFI
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SFI
 http://103.148.44.38:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="-",SHARJAH-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SHARJAH-TV
 http://103.148.44.38:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="-",SMI
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SMI
 http://103.148.44.38:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [000] BeIn Sport 3 (HD)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [000] BeIn Sport 3 (HD)
 http://103.148.44.38:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [782] BeIn Sport 2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [782] BeIn Sport 2
 http://103.148.44.38:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [783] BeIn Sport 3
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [783] BeIn Sport 3
 http://103.148.44.38:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [784] Fight Sport
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [784] Fight Sport
 http://103.148.44.38:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [786] FOX Sports 2
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [786] FOX Sports 2
 http://103.148.44.38:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [787] FOX Sports 3
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [787] FOX Sports 3
 http://103.148.44.38:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="-",SPORTS - [788] FOX Sport News
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SPORTS - [788] FOX Sport News
 http://103.148.44.38:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",SUDAN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,SUDAN
 http://103.148.44.38:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="-",TEST-GOLANG
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TEST-GOLANG
 http://103.148.44.38:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",THAIRATH-TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,THAIRATH-TV
 http://103.148.44.38:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="-",TRANS-7
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TRANS-7
 http://103.148.44.38:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="-",TRANS-TV
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TRANS-TV
 http://103.148.44.38:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [510] Pelangi (Trial)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [510] Pelangi (Trial)
 http://103.148.44.38:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [522] Z Hiburan (Trial)
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [522] Z Hiburan (Trial)
 http://103.148.44.38:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [584] SyFy
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [584] SyFy
 http://103.148.44.38:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [585] Universal
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [585] Universal
 http://103.148.44.38:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [586] AXN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [586] AXN
 http://103.148.44.38:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [588] Sony Channel
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [588] Sony Channel
 http://103.148.44.38:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [589] FOX
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [589] FOX
 http://103.148.44.38:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [590] FOX Crime
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [590] FOX Crime
 http://103.148.44.38:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="-",TV SERIES - [591] FX
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV SERIES - [591] FX
 http://103.148.44.38:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="-",TV-IN
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV-IN
 http://103.148.44.38:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="-",TV-K+
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV-K+
 http://103.148.44.38:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",TV9-NUSANTARA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv9.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TV9-NUSANTARA
 http://103.148.44.38:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",TVBS
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVBS
 http://103.148.44.38:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="-",TVN
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVN
 http://103.148.44.38:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="-",TVN-MOVIES
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVN-MOVIES
 http://103.148.44.38:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="-",TVONE
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVONE
 http://103.148.44.38:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",TVP
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVP
 http://103.148.44.38:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-BENGKULU
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-BENGKULU
 http://103.148.44.38:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-JABAR
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-JABAR
 http://103.148.44.38:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-JAMBI
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-JAMBI
 http://103.148.44.38:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-JATENG
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-JATENG
 http://103.148.44.38:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-JATIM
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-JATIM
 http://103.148.44.38:8000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-Kanal-3
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-Kanal-3
 http://103.148.44.38:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-LAMPUNG
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-LAMPUNG
 http://103.148.44.38:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-MALUKU
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-MALUKU
 http://103.148.44.38:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-Sport
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-Sport
 http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",TVRI-WORLD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,TVRI-WORLD
 http://103.148.44.38:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",U-CHANEL
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,U-CHANEL
 http://103.148.44.38:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="-",UCHANEL
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,UCHANEL
 http://103.148.44.38:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",VTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="DIGITAL TV" x-source="TV DIGITAL" ,VTV
 http://103.148.44.38:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="-",YEMEN-TV
+#EXTINF:-1 group-title="DIGITAL TV" x-source="TV DIGITAL" ,YEMEN-TV
 http://103.148.44.38:8000/play/a083/index.m3u8
+
