@@ -1,9 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="21593" tvg-logo="https://thumbor.prod.vidiocdn.com/oXm9VDgKYLHoQQTn_S-k-3T0W7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113118/89965c.jpg" group-title="Pertandingan Hari Ini", 🔴 (HLS) LIVE 15:30 WIB (04/06) - Myanmar vs Vietnam - ASEAN U19 Boys' Bank Sumut Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=drm
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=dash
