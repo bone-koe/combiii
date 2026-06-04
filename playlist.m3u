@@ -1,0 +1,458 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="6685" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="Olahraga", Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=drm&x=1780548953&k=148e0279c13a773e8051d2477db4ffa6b83251d5ca421621d07de7864de485f7
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=dash&x=1780548953&k=198128d3b94f63a9294bc015e833e4901b18203874ef1e53a1cc8b59e17cfd39
+
+#EXTINF:-1 tvg-id="17938" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="Olahraga", Champions TV 1 (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17938&ext=drm&x=1780548953&k=e0eb0981d917039d8f604d842d55acde8b3d8cb755ccf1862f95967fa68adb18
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17938&ext=dash&x=1780548953&k=428e5c6c4f429ea7e2fd177bbea913a25f5f569cf899f14b70e5d34084bc3021
+
+#EXTINF:-1 tvg-id="6686" tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="Olahraga", Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6686&ext=drm&x=1780548953&k=4cdea66c27876452c69d2fab55fb8705aa0199575e6388648ed526b21790dce4
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6686&ext=dash&x=1780548953&k=96f7dc98bc73992539e5d88288c696b8a9dda81d9f1ccab36428a582233dd996
+
+#EXTINF:-1 tvg-id="6786" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="Olahraga", Champions TV 3 (WTA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6786&ext=drm&x=1780548953&k=a9ae91ce87316b006a7597e4c6775fc93fcf21c8b4620e7edfc2351afff09ed0
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6786&ext=dash&x=1780548953&k=febd6c2a17a8440d0d97bc255ad4f93205b3ac05fbf5c7ccfd1790bc6b910122
+
+#EXTINF:-1 tvg-id="19404" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="Olahraga", Champions TV 3 (Serie A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=19404&ext=drm&x=1780548953&k=6d0d7afbdfa260915032af14fb3d3e3be41b1bcbf2b7748a7f0a2fe358a97433
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=19404&ext=dash&x=1780548953&k=47b503557808e74561e11f3144867ca6b676fe017ddc36c53470c51385167899
+
+#EXTINF:-1 tvg-id="9182" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXqsPqp4vYy2IV5LyM7TFC9_N8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg" group-title="Olahraga", Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=9182&ext=drm&x=1780548953&k=d518a6901bdf0bc1e5e4c93c1285af9222c0e659f85c75fb9344cb4bd8c9e80e
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=9182&ext=dash&x=1780548953&k=108377fbf513c5b8799f3bc2f4397cb6b6ca314e9c6af8a7fec644e222deae6a
+
+#EXTINF:-1 tvg-id="9183" tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="Olahraga", Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=9183&ext=drm&x=1780548953&k=2531e85e6386faf214555e9d6b864bc9cf95906c24d206a2a1556e0fee51bd0c
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=9183&ext=dash&x=1780548953&k=dbb083e863a7eae162c8459736bbeb6e9dbeeeaae4b91dee1fc53fe15a8defc9
+
+#EXTINF:-1 tvg-id="20216" tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="Olahraga", Champions Fight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=20216&ext=drm&x=1780548953&k=7bd48b968b463117d1d6d7e438a54d196d6da038be9d1db38b12429e2fe4b8d6
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=20216&ext=dash&x=1780548953&k=555a31b1cf8831bd302ce4f2771b47104ce16499da68585d1780c1524b7e34f2
+
+#EXTINF:-1 tvg-id="9353" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="Olahraga", Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=9353&ext=drm&x=1780548953&k=6c9adbed44e712d9e9bd74842b2fb670bcf101ba947872c48276c2c8fd3fbd3d
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=9353&ext=dash&x=1780548953&k=787ff5006b88252e8322f20243cbb38a2f696ed3cdf39df111931ec2298b4db9
+
+#EXTINF:-1 tvg-id="6299" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="Olahraga", BeIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6299&ext=drm&x=1780548953&k=a6f7d1d2e7c8df8acf9685938f9e7c3f7fe367f037d249b253f44e7baf4fd67c
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6299&ext=dash&x=1780548953&k=68659a4f01e6015969cd22873befe4e2b4ac0cbb7cabd989984413a30a12b22e
+
+#EXTINF:-1 tvg-id="17875" tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="Olahraga", BeIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17875&ext=drm&x=1780548953&k=b335cff29cc6a3a6427839dedebd3d416d201dc7a9fad507c1637e4bed590ba2
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17875&ext=dash&x=1780548953&k=98828fb9383a1867db7774a4bcb14f02ce5cb017ca8c19118067cabe3163e089
+
+#EXTINF:-1 tvg-id="6317" tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" group-title="Olahraga", BeIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25
+
+#EXTINF:-1 tvg-id="17139" tvg-logo="https://thumbor.prod.vidiocdn.com/1cUTXlCSzstGfFXuRkOqCajuaV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg" group-title="Olahraga", SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=17139&ext=hls&x=1780548953&k=b68c6ce9c0ff8b9b26685c6e99edd0d4f61196f3652d4b40e3169a668a143886
+
+#EXTINF:-1 tvg-id="17140" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="Olahraga", SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=17140&ext=hls&x=1780548953&k=af6d0358def413e707b88e55c2be76d09b58e722013ca72ef7c50eb66e79928d
+
+#EXTINF:-1 tvg-id="18189" tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" group-title="Olahraga", Champions Golf 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=drm&x=1780548953&k=c016d4d80bf8c00d7361d6b39a4765fbbfe8f81d865f1cce3e2cb3dc7397520b
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=dash&x=1780548953&k=6f96e40dbabafda4493d9d4fc6e78dc91e03f3dc130202137047f4c00241a470
+
+#EXTINF:-1 tvg-id="18190" tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="Olahraga", Champions Golf 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18190&ext=drm&x=1780548953&k=ad82abce347b8647ccb32b4cbb29a8dcf2d40e52423c797ea6d1fe49349f7397
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18190&ext=dash&x=1780548953&k=acb7ab9b2ee0fd10ffc67a0b90a4d99dd517860f6743ddb03156bd90b7a787f2
+
+#EXTINF:-1 tvg-id="19538" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="Olahraga", Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=19538&ext=drm&x=1780548953&k=b62a72dd195e73ea1e1ba918a141b9dc4bcbdf72f2645372fa73639a6d038cb3
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=19538&ext=dash&x=1780548953&k=ec47648a91a0f5715baa6bf06291026a7378f8b3e15c1245708d162ec42e535b
+
+#EXTINF:-1 tvg-id="21178" tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="Olahraga", Voli TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21178&ext=drm&x=1780548953&k=ff349df8c5dfd2970bbe3760c2295819f84979d96fd3b72a0a8a830fc3c49612
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21178&ext=dash&x=1780548953&k=1b3149ad08f9bb091021188591985d08206b618a852f5fc184c524bcffa0573e
+
+#EXTINF:-1 tvg-id="21289" tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="Hiburan", Citra Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21289&ext=drm&x=1780548953&k=050a3bb529c134c2455fe257ef132d0d69771be61ef4b726d6d6e3ce7f4d61e2
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21289&ext=dash&x=1780548953&k=af029fef6927f146bfa625c7a3f918d90f058fafa7a4caccffc21972fb9dd85f
+
+#EXTINF:-1 tvg-id="21604-5119824" tvg-logo="https://thumbor.prod.vidiocdn.com/DRE8gVTuU4oJzj7NZxfzcldRt0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119824/ea8c82.jpg" group-title="Pertandingan Hari Ini", 🔴 LIVE 06:45 WIB (04/06) - Women: Canada vs Germany - Volleyball Nations League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=21604&ext=hls&x=1780548953&k=be34ea1c20de5ae56aa50e9491e5e2951f866028f3c06aba2c6e1a7af3c9ce5d&sc=5119824
+
+#EXTINF:-1 tvg-id="21603-5119826" tvg-logo="https://thumbor.prod.vidiocdn.com/U2j8pqv7n1m-Dso8ZmyYwnYLNKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119826/7eea1a.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 13:45 WIB (04/06) - Women: Czechia vs Poland - Volleyball Nations League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=21603&ext=hls&x=1780548953&k=d90b1867a59671b4cdfc0c9e571636ccb6e8704a6f925de899baf4c1eff49b41&sc=5119826
+
+#EXTINF:-1 tvg-id="21593-5113118" tvg-logo="https://thumbor.prod.vidiocdn.com/oXm9VDgKYLHoQQTn_S-k-3T0W7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113118/89965c.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:30 WIB (04/06) - Myanmar vs Vietnam - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=drm&x=1780548953&k=08611c18940db00bae640f70a53f1b0a39adbe624c83922261dd4cecc33362b1
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=dash&x=1780548953&k=8ac7a6b05f65c61602149f2bf91969055d90a2fe1152dbfbf2499f41632df626&sc=5113118
+
+#EXTINF:-1 tvg-id="17875-5119855" tvg-logo="https://thumbor.prod.vidiocdn.com/VkerSCcVXr7br8BB-1jhPFy6_lU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119855/561a1e.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 16:45 WIB (04/06) - Sara Errani/Andrea Vavassoni vs Evan King/Gabriela Dabrowski - Mixed Doubles Final | Roland Garros 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17875&ext=drm&x=1780548953&k=b335cff29cc6a3a6427839dedebd3d416d201dc7a9fad507c1637e4bed590ba2
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17875&ext=dash&x=1780548953&k=98828fb9383a1867db7774a4bcb14f02ce5cb017ca8c19118067cabe3163e089&sc=5119855
+
+#EXTINF:-1 tvg-id="6317-5119856" tvg-logo="https://thumbor.prod.vidiocdn.com/oN1WaW7LoHvs-olvxgG6VuDspy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119856/c0217d.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 17:00 WIB (04/06) - Quentin Halys/Pierre-Hugues Herbert vs Harri Heliovaara/Henry Patten - Men's Doubles Semifinals | Roland Garros 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5119856
+
+#EXTINF:-1 tvg-id="206-5119820" tvg-logo="https://thumbor.prod.vidiocdn.com/HbgQ0uXn1BU9YT_xJbsn5BGxw_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119820/345660.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 18:15 WIB (04/06) - Women: China vs Thailand - Volleyball Nations League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=206&ext=hls&x=1780548953&k=b20c2e241ea3f28d20e47533cb352b4cb8f683fdafb1e1ef7376ffd0e49a5386&sc=5119820
+
+#EXTINF:-1 tvg-id="17884-5115070" tvg-logo="https://thumbor.prod.vidiocdn.com/ux21rtztXiYqtQQxi6_nRwhpFwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115070/469955.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 18:25 WIB (04/06) - Practice - FIA Formula 3 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115070
+
+#EXTINF:-1 tvg-id="21593-5113119" tvg-logo="https://thumbor.prod.vidiocdn.com/t2H2Xf_EEHjFgfQVfsnqB4I-lew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113119/8d6054.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:00 WIB (04/06) - Timor-Leste vs Indonesia - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=drm&x=1780548953&k=08611c18940db00bae640f70a53f1b0a39adbe624c83922261dd4cecc33362b1
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=dash&x=1780548953&k=8ac7a6b05f65c61602149f2bf91969055d90a2fe1152dbfbf2499f41632df626&sc=5113119
+
+#EXTINF:-1 tvg-id="17884-5115071" tvg-logo="https://thumbor.prod.vidiocdn.com/fOZhA0-Eziz82TU5NCcWmiMDeBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115071/ad5351.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 20:00 WIB (04/06) - Practice - FIA Formula 2 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115071
+
+#EXTINF:-1 tvg-id="6317-5113109" tvg-logo="https://thumbor.prod.vidiocdn.com/lWuf5lBx4oAgkWUoDn6-h8hNEvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113109/35fde3.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:30 WIB (04/06) - Italy Major Premier Padel - Day 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5113109
+
+#EXTINF:-1 tvg-id="18189-5115009" tvg-logo="https://thumbor.prod.vidiocdn.com/W6gzcVQqji0hMuobuIchdR3jv-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115009/28a18e.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 01:00 WIB (05/06) - Round 1 - the Memorial Tournament presented by Workday 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=drm&x=1780548953&k=c016d4d80bf8c00d7361d6b39a4765fbbfe8f81d865f1cce3e2cb3dc7397520b
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=dash&x=1780548953&k=6f96e40dbabafda4493d9d4fc6e78dc91e03f3dc130202137047f4c00241a470&sc=5115009
+
+#EXTINF:-1 tvg-id="17139-5115069" tvg-logo="https://thumbor.prod.vidiocdn.com/iYxhODh9NEDY7jUiuErgH80Zz_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115069/1ab68f.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 01:00 WIB (05/06) - U.S. Women's Open presented by Ally 2026 - Round 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=17139&ext=hls&x=1780548953&k=b68c6ce9c0ff8b9b26685c6e99edd0d4f61196f3652d4b40e3169a668a143886&sc=5115069
+
+#EXTINF:-1 tvg-id="21488-5119834" tvg-logo="https://thumbor.prod.vidiocdn.com/3hrTymXBFDVz5qcyo1Ox3Wmn8rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119834/25a579.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 10:00 WIB (05/06) - Byon Madness: Weigh-In + Press Conference
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21488&ext=drm&x=1780548953&k=75c71a5f434b5c101ba981948d84485f824024b7b19720251b14933afb336f5f
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21488&ext=dash&x=1780548953&k=1c7011b4b3f6e893c73acf9e55e178d11a8f6889c47cd6bd6da8df3a098d1ad9&sc=5119834
+
+#EXTINF:-1 tvg-id="21593-5115044" tvg-logo="https://thumbor.prod.vidiocdn.com/qwrmrIZyyCQe3WCiqzmYcCTm8w4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115044/068eb8.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:30 WIB (05/06) - Brunei Darussalam vs Malaysia - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=drm&x=1780548953&k=08611c18940db00bae640f70a53f1b0a39adbe624c83922261dd4cecc33362b1
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=dash&x=1780548953&k=8ac7a6b05f65c61602149f2bf91969055d90a2fe1152dbfbf2499f41632df626&sc=5115044
+
+#EXTINF:-1 tvg-id="21485-21485" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:30 WIB (05/06) - Marten vs Gregorius Sika - ICC Indostriking Flyweight Tournament
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21485&ext=drm&x=1780548953&k=3871df53c9ee7b9e6695828c0b573531af5126fd3c7c4764da715ae41d22da09
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21485&ext=dash&x=1780548953&k=fb0aec1b655154529bc5cc4cc7228cc4e21e4d712e4a51895465eefad7b739b0&sc=21485
+
+#EXTINF:-1 tvg-id="6317-5119832" tvg-logo="https://thumbor.prod.vidiocdn.com/7eSUDpTJd88ZA9uwthxSL6fdSLo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119832/f983ff.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:55 WIB (05/06) - Women's Doubles Semifinals - Day 13 (Court 3) - Roland Garros 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5119832
+
+#EXTINF:-1 tvg-id="17884-5115072" tvg-logo="https://thumbor.prod.vidiocdn.com/azFc4aoV4BUgMcMHxy4Cwu8AqLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115072/6c22ee.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 16:03 WIB (05/06) - Qualifying - FIA Formula 3 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115072
+
+#EXTINF:-1 tvg-id="17884-5115073" tvg-logo="https://thumbor.prod.vidiocdn.com/SD-sO7clEKF299dJ6AGQPNH27Ls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115073/3efd97.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 18:25 WIB (05/06) - Practice 1 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115073
+
+#EXTINF:-1 tvg-id="21593-5115045" tvg-logo="https://thumbor.prod.vidiocdn.com/OjqbAbBJdwjpzDR92OJG1vGwChM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115045/8d8cfb.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:30 WIB (05/06) - Singapore vs Thailand - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=drm&x=1780548953&k=08611c18940db00bae640f70a53f1b0a39adbe624c83922261dd4cecc33362b1
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=dash&x=1780548953&k=8ac7a6b05f65c61602149f2bf91969055d90a2fe1152dbfbf2499f41632df626&sc=5115045
+
+#EXTINF:-1 tvg-id="6685-5119691" tvg-logo="https://thumbor.prod.vidiocdn.com/yfVyPsC0M-73zQzCl_rLyJ1yhYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119691/5574a2.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:55 WIB (05/06) - Colombia vs China - Maurice Revello
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=drm&x=1780548953&k=148e0279c13a773e8051d2477db4ffa6b83251d5ca421621d07de7864de485f7
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=dash&x=1780548953&k=198128d3b94f63a9294bc015e833e4901b18203874ef1e53a1cc8b59e17cfd39&sc=5119691
+
+#EXTINF:-1 tvg-id="21610-5115048" tvg-logo="https://thumbor.prod.vidiocdn.com/U_BI-aXEPmoE8SmxIWfhrp427ck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115048/f1ee9d.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 20:00 WIB (05/06) - Indonesia vs Oman - FIFA Matchday
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21610&ext=drm&x=1780548953&k=9533cedb10510e52845cbaff9d3b8ae2ebc7b496d9a27365e8582123f5773cde
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21610&ext=dash&x=1780548953&k=ce3cf6a5fbc421c3162f792f7fd0a9adfed5ccff36feefe45af5409c7695c7d0&sc=5115048
+
+#EXTINF:-1 tvg-id="17884-5115074" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw14ZAt_K5g4APMrGtREV96Izso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115074/d327c9.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 20:08 WIB (05/06) - Qualifying - FIA Formula 2 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115074
+
+#EXTINF:-1 tvg-id="17884-5115075" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 21:55 WIB (05/06) - Practice 2 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115075
+
+#EXTINF:-1 tvg-id="6317-5113110" tvg-logo="https://thumbor.prod.vidiocdn.com/ajmmBB0N3ZCw3WsNVe3LK1mQakc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113110/7949c8.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:00 WIB (05/06) - Italy Major Premier Padel - Quarterfinals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5113110
+
+#EXTINF:-1 tvg-id="6685-5119692" tvg-logo="https://thumbor.prod.vidiocdn.com/hl1Ao6B1kLJKqJo_UeL4mhNexfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119692/bfd82e.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:25 WIB (05/06) - Saudi Arabia vs Tunisia - Maurice Revello
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=drm&x=1780548953&k=148e0279c13a773e8051d2477db4ffa6b83251d5ca421621d07de7864de485f7
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=dash&x=1780548953&k=198128d3b94f63a9294bc015e833e4901b18203874ef1e53a1cc8b59e17cfd39&sc=5119692
+
+#EXTINF:-1 tvg-id="18189-5115010" tvg-logo="https://thumbor.prod.vidiocdn.com/L1407m56_8FGydD3IRVktyX70v0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115010/b3b49d.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 01:00 WIB (06/06) - Round 2 - the Memorial Tournament presented by Workday 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=drm&x=1780548953&k=c016d4d80bf8c00d7361d6b39a4765fbbfe8f81d865f1cce3e2cb3dc7397520b
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=dash&x=1780548953&k=6f96e40dbabafda4493d9d4fc6e78dc91e03f3dc130202137047f4c00241a470&sc=5115010
+
+#EXTINF:-1 tvg-id="17139-5115085" tvg-logo="https://thumbor.prod.vidiocdn.com/umVda8tUkb54ixp4dk8qNqZbSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115085/c9d6ca.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 01:00 WIB (06/06) - U.S. Women's Open presented by Ally 2026 - Round 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=17139&ext=hls&x=1780548953&k=b68c6ce9c0ff8b9b26685c6e99edd0d4f61196f3652d4b40e3169a668a143886&sc=5115085
+
+#EXTINF:-1 tvg-id="21489-21489" tvg-logo="https://thumbor.prod.vidiocdn.com/pNxqx8Kr_J58y3PGifQ16ntBtvU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21489/avod-byon-madness-4-1b6be0.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:15 WIB (06/06) - BYON Madness
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21489&ext=drm&x=1780548953&k=0b12b87669641cc474fccd035af99032bfc70ef7ddf9af1fbb48e23bcaeeb2ad
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21489&ext=dash&x=1780548953&k=2a8e3e0cb0ee23ae190d415cfc73612b32d7d75f8bbc7376326f8605434f050a&sc=21489
+
+#EXTINF:-1 tvg-id="21490-21490" tvg-logo="https://thumbor.prod.vidiocdn.com/Dg7bYMDGFViCSkIrJfGsolcWD8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-02ee27.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:15 WIB (06/06) - BYON Madness
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21490&ext=drm&x=1780548953&k=5ebd069689ee836f05c476b42b5cb570cc6aff2933dc521f14235e6eb00f3685
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21490&ext=dash&x=1780548953&k=e3ac3a54e37a5beef3777ef7c1b5be68d61a61f7260c76186d55b44478b00004&sc=21490
+
+#EXTINF:-1 tvg-id="17884-5115086" tvg-logo="https://thumbor.prod.vidiocdn.com/x0-cRhd_DARJLVysdiO4Xbv5sPI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115086/0004e2.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 15:40 WIB (06/06) - Sprint - FIA Formula 3 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115086
+
+#EXTINF:-1 tvg-id="17884-5115087" tvg-logo="https://thumbor.prod.vidiocdn.com/0ewzc8qxP3TpFJVK7MuxEl3F0o8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115087/a3c0a4.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 17:25 WIB (06/06) - Practice 3 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115087
+
+#EXTINF:-1 tvg-id="6317-5113111" tvg-logo="https://thumbor.prod.vidiocdn.com/FAvJ5vfR5UWyx_SGxPNpbKjPgKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113111/1648a9.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:00 WIB (06/06) - Italy Major Premier Padel - Semifinals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5113111
+
+#EXTINF:-1 tvg-id="19388-5114960" tvg-logo="https://thumbor.prod.vidiocdn.com/8zu5Oo5kfOJo4mgCqubVGiHS18o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5114960/643241.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:10 WIB (06/06) - Rajadamnern 2026 Super Flyweight Title
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstream.lampasioagus.workers.dev/play.m3u8?q=19388&ext=hls&x=1780548953&k=a6200b3763cb069b8eb62e1e282e54b08a6a85c8882f6429e23fbdc81ca894ef&sc=5114960
+
+#EXTINF:-1 tvg-id="17884-5115088" tvg-logo="https://thumbor.prod.vidiocdn.com/62yIMBjvPgK2SQTtRYkQkmaggH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115088/24449b.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:10 WIB (06/06) - Sprint - FIA Formula 2 Championship Monaco Grand Prix 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115088
+
+#EXTINF:-1 tvg-id="21593-5115046" tvg-logo="https://thumbor.prod.vidiocdn.com/RjVb0B38pSVlJWsqF1slPNKdZ-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115046/486824.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:30 WIB (06/06) - Cambodia vs Philippines - ASEAN U19 Boys' Bank Sumut Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=drm&x=1780548953&k=08611c18940db00bae640f70a53f1b0a39adbe624c83922261dd4cecc33362b1
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=21593&ext=dash&x=1780548953&k=8ac7a6b05f65c61602149f2bf91969055d90a2fe1152dbfbf2499f41632df626&sc=5115046
+
+#EXTINF:-1 tvg-id="6685-5119693" tvg-logo="https://thumbor.prod.vidiocdn.com/EhJVNGBmPqHOywk0eQXPTm-beo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119693/9e0e3f.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 19:55 WIB (06/06) - Japan vs Canada - Maurice Revello
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=drm&x=1780548953&k=148e0279c13a773e8051d2477db4ffa6b83251d5ca421621d07de7864de485f7
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=dash&x=1780548953&k=198128d3b94f63a9294bc015e833e4901b18203874ef1e53a1cc8b59e17cfd39&sc=5119693
+
+#EXTINF:-1 tvg-id="17884-5115089" tvg-logo="https://thumbor.prod.vidiocdn.com/rA3FGl7X5bosgsCxgpLFnp_FT-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115089/aa3d47.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 20:55 WIB (06/06) - Qualifying - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=drm&x=1780548953&k=3f53539064020cf09bd9f8758619b507650bcdeb486252d5bcd8ed3d2c9d14dd
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=17884&ext=dash&x=1780548953&k=efb339ad2479b8f27733a2d217120e444d7eb649527267cbfbdcda960bf583ce&sc=5115089
+
+#EXTINF:-1 tvg-id="6685-5119694" tvg-logo="https://thumbor.prod.vidiocdn.com/YpYSDNvegNBVr1xv5wdUgOYBCKg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119694/77fd0d.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:25 WIB (06/06) - Portugal vs Ivory Coast - Maurice Revello
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=drm&x=1780548953&k=148e0279c13a773e8051d2477db4ffa6b83251d5ca421621d07de7864de485f7
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6685&ext=dash&x=1780548953&k=198128d3b94f63a9294bc015e833e4901b18203874ef1e53a1cc8b59e17cfd39&sc=5119694
+
+#EXTINF:-1 tvg-id="18189-5115011" tvg-logo="https://thumbor.prod.vidiocdn.com/r74cDTjZKgqJQlS-8WUiEGyuWQI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115011/164b03.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:30 WIB (06/06) - Round 3 - the Memorial Tournament presented by Workday 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=drm&x=1780548953&k=c016d4d80bf8c00d7361d6b39a4765fbbfe8f81d865f1cce3e2cb3dc7397520b
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=dash&x=1780548953&k=6f96e40dbabafda4493d9d4fc6e78dc91e03f3dc130202137047f4c00241a470&sc=5115011
+
+#EXTINF:-1 tvg-id="6317-5113112" tvg-logo="https://thumbor.prod.vidiocdn.com/FRvnB6obHK3iO8vl-j1_xpRfmgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113112/159b0e.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 01:35 WIB (07/06) - Italy Major Premier Padel - Semifinals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5113112
+
+#EXTINF:-1 tvg-id="18189-5115012" tvg-logo="https://thumbor.prod.vidiocdn.com/mDHBQ6qJdZSSn16up5VVAvNKViA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115012/7fd889.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:30 WIB (07/06) - Round 4 - the Memorial Tournament presented by Workday 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=drm&x=1780548953&k=c016d4d80bf8c00d7361d6b39a4765fbbfe8f81d865f1cce3e2cb3dc7397520b
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=18189&ext=dash&x=1780548953&k=6f96e40dbabafda4493d9d4fc6e78dc91e03f3dc130202137047f4c00241a470&sc=5115012
+
+#EXTINF:-1 tvg-id="6317-5113113" tvg-logo="https://thumbor.prod.vidiocdn.com/rfig_f_a3nt5kZsJhPt9EQgEPJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113113/9b000f.jpg" group-title="Pertandingan Hari Ini", ⏳ JAM 23:30 WIB (07/06) - Italy Major Premier Padel - Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=drm&x=1780548953&k=34ac23e27a033d5a5e01640775eab4e0722e633fbc9446ff17e6980ec5ae75af
+https://tvstream.lampasioagus.workers.dev/index.mpd?q=6317&ext=dash&x=1780548953&k=2955678123f208d4c50e75e5d44395ca0ff66b0a943af7dc2c3840b2cf176f25&sc=5113113
+
