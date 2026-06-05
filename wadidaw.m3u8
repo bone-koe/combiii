@@ -20,3 +20,17 @@ https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=205&type=dash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=206&type=dash
+
+#EXTINF:-1 tvg-id="17140" tvg-logo="https://thumbor.prod.vidiocdn.com/1S3oJ8dj1A65ZzE_hFyKBgn66UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119867/f23788.jpg" group-title="Pertandingan Hari Ini", 🔴 LIVE 15:40 WIB (05/06) - MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=17140&type=drm
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=17140&type=dash
+
+
+
+
+
+
