@@ -13,3 +13,10 @@ https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=204&type=dash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="206" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="TV Nasional", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=206&type=dash
