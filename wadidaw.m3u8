@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="204" tvg-logo="https://thumbor.prod.vidiocdn.com/5rBDu4Qyi6cePz2WqRf1ig7pqhM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5111216/7b99f1.jpg" group-title="TV Nasional", Ftv Siang : Labrak Mantan Auto Manten
+#EXTINF:-1 tvg-id="204" tvg-logo="https://thumbor.prod.vidiocdn.com/RFmHzMm9ayPHRJQkp4s43VwvLqs=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="TV Nasional", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="TV Nasional", Kisah Nyata Siang
+#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="TV Nasional", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -21,21 +21,19 @@ https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=206&type=dash
 
-#EXTINF:-1 tvg-id="17140" tvg-logo="https://thumbor.prod.vidiocdn.com/1S3oJ8dj1A65ZzE_hFyKBgn66UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119867/f23788.jpg" group-title="Pertandingan Hari Ini", 🔴 LIVE 15:40 WIB (05/06) - MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="733" tvg-logo="https://thumbor.prod.vidiocdn.com/zG6gC8bd-eDAwkyAwUul8l5Lp08=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="TV Nasional", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=17140&type=drm
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=17140&type=dash
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=733&type=dash
 
-#EXTINF:-1 tvg-id="21593" tvg-logo="https://thumbor.prod.vidiocdn.com/qwrmrIZyyCQe3WCiqzmYcCTm8w4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115044/068eb8.jpg" group-title="Pertandingan Hari Ini", 🔴 LIVE 15:30 WIB (05/06) - Brunei Darussalam vs Malaysia - ASEAN U19 Boys' Bank Sumut Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="734" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="TV Nasional", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=drm
-https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=dash
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=734&type=dash
 
 
 
