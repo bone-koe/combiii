@@ -44,7 +44,13 @@ https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=734&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=drm
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=dash
 
-
+#EXTINF:-1 group-title="LIVE EVENT | VOLI" tvg-id="21254-5119900" tvg-logo="https://thumbor.prod.vidiocdn.com/GkQPmUvaqo2tpSY7Ie5jbIUas4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119900/b570c9.jpg",🔴 LIVE 13:30 WIB (06/06) - (BACKUP) Philippines vs Uzbekistan - AVC Women's Volleyball Nations Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21254&type=drm
+https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21254&type=dash
 
 
 
