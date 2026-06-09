@@ -20,6 +20,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgn
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a09f
+
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/FrEy3h36FSjTRxaGkFzsUe-650-80.jpg" group-title="🔴FIFA WORLD CUP 2026🔴" x-source="pildun comot" tvg-id="" ,NBC UNIVERSO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
