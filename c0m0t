@@ -44,37 +44,37 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck.iptvbonekoe.workers.dev/?id=971
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1 group-title="Deportes", Vix Mundial 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"75074a0cbd83f5b72fb3e5c1495252a9":"a4a0df04b2d28f2160cead2ecdeb7203"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", Vix Mundial 2 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 2 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11f486ca7df20d63ff3aaecf4d87d132":"9271506950313bab2ced7522891aa022"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", Vix Mundial 3 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 3 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"784d6b54efe3a13dc1fbcda17e5804db":"b4f4814e01943f910b62e6bfd0c23728"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", Vix Mundial 4 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 4 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7ee1a23e40b456ebfdaa40c51a24b857":"45ffaff5f3221a356c82c3d39bb327ac"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", Vix Mundial 5 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 5 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8b0dd1c5b5812460479ac94af4ff061d":"fc5a0c78cf2ad8bb3636e01150553427"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", Vix Mundial 6 2026 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg" group-title="🔴FIFA WORLD CUP 2026🔴", Vix Mundial 6 2026 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9696c2f12e487aafe1dc96d16d0db658":"159fd5dc3b0d9e0d75f856e95e225801"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
@@ -82,18 +82,15 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.m
 https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🔴FIFA WORLD CUP 2026🔴" x-source="pildun comot" , CCTV-5 体育 (China)
-http://74.91.26.218:82/live/cctv5hd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-http://69.30.245.50/live/cctv5.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🔴FIFA WORLD CUP 2026🔴" x-source="pildun comot" , CCTV-5+ 体育赛事 (China)
-http://74.91.26.218:82/live/cctv5p.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-http://69.30.246.194/live/cctv5p.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="🔴FIFA WORLD CUP 2026🔴" x-source="pildun comot" tvg-chno="65" tvg-id="WJBK-DT.us_locals1" tvg-name="Fox" , Fox (United States)
 http://stream.cammonitorplus.net/1772/index.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="🔴FIFA WORLD CUP 2026🔴" x-source="pildun comot" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" , FS1 (United States)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
