@@ -26,7 +26,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780495065&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10dbb0908b5515dec860bbca9d40fc09
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png" group-title="🔴FIFA WORLD CUP 2026🔴",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="FIFA +" tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png" group-title="🔴FIFA WORLD CUP 2026🔴",FIFA +
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
@@ -71,7 +70,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgn
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN (Colombia)
+#EXTINF:0 group-title="🔴FIFA WORLD CUP 2026🔴" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9997/play/a09f
 
