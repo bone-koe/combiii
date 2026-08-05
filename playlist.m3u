@@ -1262,7 +1262,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="TV DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , JOWO CHANNEL DNS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
