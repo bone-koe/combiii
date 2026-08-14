@@ -53,8 +53,14 @@ https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21593&type=dash
 https://nonhmacapiserver.iptvbonekoe.workers.dev/index.mpd?id=21254&type=dash
 
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="LIGA INGGRIS",HUB PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://main.light-ott.net/play/live.php?mac=00:1A:79:17:3e:34&stream=1314077&extension=m3u8
 
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="LIGA INGGRIS",HUB PREMIER 1 Alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/bone-koe/combiii/refs/heads/main/hls/hub1.m3u8
 
 
 
