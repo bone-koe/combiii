@@ -2,6 +2,21 @@
 
 
 ############### MALAYSIA TV 45 ON ###############
+
+
+
+#EXTINF:-1 group-logo="" group-title="Malaysia" tvg-id="104" tvg-logo="https://ptv2026.com/logo/vip_Ria.png" , Ria
+###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
+
+#EXTINF:-1 group-logo="" group-title="Malaysia" tvg-id="105" tvg-logo="https://ptv2026.com/logo/vip_Prima.png", Prima
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
+
+#EXTINF:-1 group-logo="" group-title="Malaysia" tvg-id="611" tvg-logo="https://ptv2026.com/logo/vip_Ceria.png" , Ceria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIcMtgnk6gD4Y0_5feUp1z4CNQ8QuRyLmY1fb8vzqGG3OBPZLcZqq0kTJAbaMkuXbKmEK3B2ttbM0eNeNRIPVYVnXtSBMRtKhkMIfmiLFMWnUgki0Fj8W_3vgO4SlcgVB_VxXHsENAmR33u_MhT9ShKbgByZjW7lyN9vFz13JT3KnDl5S3eYJy0e_lP5gQ/s700/TV1.png" group-title="Malaysia" x-source="GEulis TV" "" ,TV1
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3NM4iiliVmmfbUzG9zhhtEJNpKTSwwsHYUcBfh96mjhDdCR9QCpkkG0dqLCAGfPyym_CsprL_fNsoSa410DMbPQgDjYlUGKBsmE26_8qiQqrsYOvRPsDaOOBfdPXMn2MFx-LCIfD_To0QqFRuUlrE2WYA7EJFu2gavR9nQ75AMl14tOvfY7ChQ0HcMJLC/s700/TV2.png" group-title="Malaysia" x-source="GEulis TV" "" ,TV2
