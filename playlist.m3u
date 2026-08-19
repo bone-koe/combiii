@@ -1064,9 +1064,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="INDONESIA TV" x-source="Apple TV update" tvg-id="Trans7.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , TRANS 7 DTK
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://line.4k-beast.top/ehZZtoP2AZdmcJJ/llCtpHFoxt/1505875
+
+
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
-https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
+#https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3u8
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
