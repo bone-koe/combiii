@@ -1063,7 +1063,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #https://transgroup.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-id="TRANS TV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TRANS TV DIGITAL
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192206.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192206.m3u8
 
 
 
@@ -1074,7 +1074,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",Trans 7 Digital
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192207.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192207.m3u8
 
 
 
